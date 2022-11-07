@@ -1,0 +1,42 @@
+@import 'fonts.css';
+@import 'navbar.css';
+@import 'hero.css';
+@import 'footer.css';
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #FFF;
+    color: #000;
+}
+
+.container {
+    max-width: 1156px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+a{
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.25px;
+}
+
+p,label{
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.25px;
+}
+
+h1{
+    font-family: Roboto, sans-serif;
+    font-weight: 900;
+    font-size: 38px;
+    line-height: 45px;
+    letter-spacing: 0.25px;
+}
