@@ -166,13 +166,14 @@
     top: 50px;
     width: 100%;
     height: calc(100vh - 61px);
-    background: #5C62EC;
+    background: #F0F0F0;
 }
 
 .navbar__mobile-section-btn{
     text-decoration:none;
     font-size: 48px;
     line-height: 64px;
+    color: #5E5E5E;
 }
 
 @media only screen and (max-width: 480px) {
